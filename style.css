@@ -34,6 +34,7 @@ h1 {
 h2 {
       margin: 1% 15% 0 15%;
       z-index: 3;
+      font-size: 25px;
       text-align: center;
       color:rgb(200, 214, 214);
 }
