@@ -105,3 +105,8 @@ header {
       }
 }
 
+@media screen and (max-width: 1200px) {
+      .header-container a {
+        width: 18%;
+      }
+}
